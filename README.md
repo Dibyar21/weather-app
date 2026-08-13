@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/Dibyar21/weather-app">
-<img src="https://img.shields.io/badge/📂_SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/📂_SOURCE-CODE-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -23,9 +23,9 @@
 
 ## 📌 About
 
-A responsive weather application built using **HTML, CSS, and JavaScript** that fetches real-time weather information using the **OpenWeather API**.
+- A responsive weather application built using **HTML, CSS, and JavaScript** that fetches real-time weather information using the **OpenWeather API**.
 
-Users can search for a city and view its current temperature, humidity, wind speed, and weather condition through a clean and interactive interface.
+- Users can search for a city and view its current temperature, humidity, wind speed, and weather condition through a clean and interactive interface.
 
 ---
 
